@@ -1,18 +1,19 @@
-## Backend Developer
+## Backend Engineer
 
+<!--
 #### 💻 Main Tech Stack
 - Kotlin
 - Spring Boot
 - JPA / Hibernate
 - MySQL with Innodb
+-->
 
 #### 📚 Interested in...
+- Building stable and scalable systems
 - Automating trivial or routine tasks
 - Technical discussions
 
 <!--
-**jyoo0515/jyoo0515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

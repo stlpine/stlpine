@@ -1,27 +1,10 @@
 ## Backend Engineer
 
-<!--
-#### 💻 Main Tech Stack
-- Kotlin
-- Spring Boot
-- JPA / Hibernate
-- MySQL with Innodb
--->
+**[VCNC](https://github.com/vcnc)** (TADA) · Backend Engineer *(Aug 2022 – Feb 2025)*
+**[Stair Crusher Club](https://github.com/Stair-Crusher-Club)** · Product Engineer *(Mar 2024 – Mar 2026)*
 
 #### 📚 Interested in...
-- Building stable and scalable systems
-- Automating trivial or routine tasks
-- Technical discussions
+- Building high-availability, low-latency, and scalable systems
+- System optimization and performance tuning
+- Technical discussions with sharp engineers
 
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
